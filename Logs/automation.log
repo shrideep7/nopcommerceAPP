@@ -1,0 +1,46 @@
+06/02/2022 07:04:30 PM: INFO: **************** Test_002_Login_DDT ****************** 
+06/02/2022 07:04:30 PM: INFO: ****************verifying Login DDT title ****************** 
+06/02/2022 07:04:38 PM: INFO: *********passed********
+06/02/2022 07:04:42 PM: INFO: *********passed********
+06/02/2022 07:04:43 PM: INFO: *********passed********
+06/02/2022 07:04:44 PM: INFO: *********passed********
+06/02/2022 07:04:44 PM: INFO: Login DDT Test is passed
+06/02/2022 07:04:44 PM: INFO: *************end of login ddt test case
+06/02/2022 07:04:44 PM: INFO: ******************** completed Test_002_Login_DDT
+06/03/2022 11:34:44 AM: INFO: **************** Test_002_Login_DDT ****************** 
+06/03/2022 11:34:44 AM: INFO: ****************verifying Login DDT title ****************** 
+06/03/2022 11:34:58 AM: INFO: *********passed********
+06/03/2022 11:35:15 AM: INFO: **************** Test_002_Login_DDT ****************** 
+06/03/2022 11:35:15 AM: INFO: ****************verifying Login DDT title ****************** 
+06/03/2022 11:35:25 AM: INFO: *********passed********
+06/03/2022 11:36:24 AM: INFO: **************** Test_002_Login_DDT ****************** 
+06/03/2022 11:36:24 AM: INFO: ****************verifying Login DDT title ****************** 
+06/03/2022 11:36:34 AM: INFO: *********passed********
+06/03/2022 11:36:37 AM: INFO: *********passed********
+06/03/2022 11:36:38 AM: INFO: *********passed********
+06/03/2022 11:36:39 AM: INFO: *********passed********
+06/03/2022 11:36:39 AM: INFO: Login DDT Test is passed
+06/03/2022 11:36:39 AM: INFO: *************end of login ddt test case
+06/03/2022 11:36:39 AM: INFO: ******************** completed Test_002_Login_DDT
+06/03/2022 11:54:32 AM: INFO: ****************Test_001_Login****************** 
+06/03/2022 11:54:32 AM: INFO: ****************verifying homepage title ****************** 
+06/03/2022 11:54:36 AM: INFO: ****************Home page title test is passed****************** 
+06/03/2022 11:54:37 AM: INFO: ****************verifying admin page title ****************** 
+06/03/2022 11:54:47 AM: INFO: ****************admin page title test is passed****************** 
+06/03/2022 11:54:49 AM: INFO: **************** Test_002_Login_DDT ****************** 
+06/03/2022 11:54:49 AM: INFO: ****************verifying Login DDT title ****************** 
+06/03/2022 11:54:56 AM: INFO: *********passed********
+06/03/2022 12:39:49 PM: INFO: ****************Test_001_Login****************** 
+06/03/2022 12:39:49 PM: INFO: ****************verifying homepage title ****************** 
+06/03/2022 12:39:53 PM: INFO: ****************Home page title test is passed****************** 
+06/03/2022 12:39:54 PM: INFO: ****************verifying admin page title ****************** 
+06/03/2022 12:40:04 PM: INFO: ****************admin page title test is passed****************** 
+06/03/2022 12:40:05 PM: INFO: **************** Test_002_Login_DDT ****************** 
+06/03/2022 12:40:05 PM: INFO: ****************verifying Login DDT title ****************** 
+06/03/2022 12:40:13 PM: INFO: *********passed********
+06/03/2022 12:40:16 PM: INFO: *********passed********
+06/03/2022 12:40:17 PM: INFO: *********passed********
+06/03/2022 12:40:18 PM: INFO: *********passed********
+06/03/2022 12:40:18 PM: INFO: Login DDT Test is passed
+06/03/2022 12:40:18 PM: INFO: *************end of login ddt test case
+06/03/2022 12:40:18 PM: INFO: ******************** completed Test_002_Login_DDT
