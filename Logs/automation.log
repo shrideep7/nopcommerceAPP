@@ -44,3 +44,20 @@
 06/03/2022 12:40:18 PM: INFO: Login DDT Test is passed
 06/03/2022 12:40:18 PM: INFO: *************end of login ddt test case
 06/03/2022 12:40:18 PM: INFO: ******************** completed Test_002_Login_DDT
+06/03/2022 03:43:18 PM: INFO: ****************Test_001_Login****************** 
+06/03/2022 03:43:18 PM: INFO: ****************verifying homepage title ****************** 
+06/03/2022 03:43:24 PM: INFO: ****************Home page title test is passed****************** 
+06/03/2022 03:43:26 PM: INFO: ****************verifying admin page title ****************** 
+06/03/2022 03:43:55 PM: INFO: ****************admin page title test is passed****************** 
+06/03/2022 03:43:56 PM: INFO: **************** Test_002_Login_DDT ****************** 
+06/03/2022 03:43:56 PM: INFO: ****************verifying Login DDT title ****************** 
+06/03/2022 03:44:22 PM: INFO: *********passed********
+06/03/2022 03:49:20 PM: INFO: ****************Test_001_Login****************** 
+06/03/2022 03:49:20 PM: INFO: ****************verifying homepage title ****************** 
+06/03/2022 03:49:42 PM: INFO: ****************Home page title test is passed****************** 
+06/03/2022 03:49:44 PM: INFO: ****************verifying admin page title ****************** 
+06/03/2022 03:49:55 PM: INFO: ****************admin page title test is passed****************** 
+06/03/2022 03:49:57 PM: INFO: **************** Test_002_Login_DDT ****************** 
+06/03/2022 03:49:57 PM: INFO: ****************verifying Login DDT title ****************** 
+06/03/2022 10:43:03 PM: INFO: ****************Test_001_Login****************** 
+06/03/2022 10:43:03 PM: INFO: ****************verifying homepage title ****************** 
